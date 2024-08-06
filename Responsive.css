@@ -1,0 +1,58 @@
+.h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal}
+
+.body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cadetblue;
+    color: black;
+
+}
+.h1{
+    text-align: center;
+    margin-top:3rem;
+}
+.teko-uniquifier {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  .carousel-item img{
+    height: 90vh;
+    width: 100px;
+  }
+.img{
+    height:60vh;
+    width:80rem;
+}
+.card-body img{
+    height:20vh;
+ width: 100%;
+}
+
+    .card-body1 img{
+        height:40vh;
+        width:20rem;
+
+    }
+    .card-img{
+        min-height: 50%;
+        max-width: 200px;
+    }
+    .img1{
+        height:60vh;
+        width: 60%;
+        margin-left:10%;
+        margin-top: 8%;
+    }
+    .div{
+         margin-top:10%;
+        height:10%;
+        width:100%;
+    }
+    .navbar-me a {
+        text-decoration: none;
+      }
